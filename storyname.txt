@@ -2,3 +2,6 @@ characters:
 1.Sullaiha -  A courageous and curious adventurer.
 2.Varsha - A skilled and wise healer who loves nature.
 3.Misha -  A mischevious and resourceful thinker.
+
+setting:
+the story takes place in the mystical land of Eldoria,a place filled with lush forests, towering mountains, and ancient ruins. The main events unfold in the bustling city of Lumina known for its magical artifacts and diverse inhabitants.
