@@ -2,3 +2,5 @@ characters:
 1.Sullaiha -  A courageous and curious adventurer.
 2.Varsha - A skilled and wise healer who loves nature.
 3.Misha -  A mischevious and resourceful thinker.
+
+"Added characters to story"
